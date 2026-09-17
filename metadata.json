@@ -1,0 +1,8 @@
+{
+  "name": "Remix ConsultAI - Real-Time Business Consultation \u0026 Automated Ticketing",
+  "description": "Real-time AI consultation chatbot for chicken accessories and coop cleaning instruments, featuring proactive flock queries, interactive sizing calculator, and automated ticketing for complex farm issues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
